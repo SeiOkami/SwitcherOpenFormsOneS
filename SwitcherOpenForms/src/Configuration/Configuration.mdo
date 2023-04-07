@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bde9903a-dc69-453b-a090-70acea71615e">
+  <name>ПереключательОткрытыхФорм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Переключатель открытых форм</value>
+  </synonym>
+  <comment>Расширение для быстрой навигации по открытым формам</comment>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="e04adaa2-9d45-49bc-a285-63bee5834362"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="4fa29be9-7921-44e0-bcaf-50879120b54a"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="6b43f51a-0924-40aa-b982-2f3e8b2b3868"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="15679c4b-e997-4ceb-8c66-6b4b1b8136c3"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="d38a2187-1e6d-4361-9dd1-fad552e6d171"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6880ecec-f6cf-49eb-bcd8-7d1adff944d2"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="208926a3-05f7-46f9-ad83-464ae3496365"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>ПОФ_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>https://github.com/SeiOkami/SwitcherOpenFormsOneS</vendor>
+  <version>0.1.2</version>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <commonCommands>CommonCommand.ПОФ_ГорячаяКлавиша</commonCommands>
+  <dataProcessors>DataProcessor.ПОФ_ПереключательОткрытыхФорм</dataProcessors>
+</mdclass:Configuration>
