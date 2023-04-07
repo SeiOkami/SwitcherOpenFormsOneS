@@ -21,7 +21,7 @@
   <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
   <namePrefix>ПОФ_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
-  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>https://github.com/SeiOkami/SwitcherOpenFormsOneS</vendor>
